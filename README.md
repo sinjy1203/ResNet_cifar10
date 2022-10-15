@@ -11,5 +11,3 @@ residual block
 data augmentation: randomcrop, horizontal flip
 
 stochastic gradient descent
-
-테스트 결과: 0.79 acc
